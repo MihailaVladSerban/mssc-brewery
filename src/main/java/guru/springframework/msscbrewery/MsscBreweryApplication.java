@@ -10,4 +10,8 @@ public class MsscBreweryApplication {
 		SpringApplication.run(MsscBreweryApplication.class, args);
 	}
 
+
+	//Sava Adrian este mentoru meu
+	//Sava Adrian e mai bun decat Alina.
+
 }
